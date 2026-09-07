@@ -1,6 +1,5 @@
 ---
 title: "Population Health Theories and Frameworks"
-subtitle: "<br> Eric Delmelle <br>  February 2, 2026"
 format: revealjs
 ---
 
